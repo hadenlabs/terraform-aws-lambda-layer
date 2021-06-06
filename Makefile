@@ -22,7 +22,7 @@ TEAM := hadenlabs
 REPOSITORY_DOMAIN:=github.com
 REPOSITORY_OWNER:=${TEAM}
 AWS_VAULT ?= ${TEAM}
-PROJECT := terraform-module-template
+PROJECT := terraform-aws-lambda-layer
 
 PYTHON_VERSION=3.8.0
 NODE_VERSION=14.16.1

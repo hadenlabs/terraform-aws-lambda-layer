@@ -5,7 +5,7 @@
 #
 
 # Name of this project
-name: terraform-module-template
+name: terraform-aws-lambda-layer
 
 # Tags of this project
 tags:
@@ -25,19 +25,19 @@ email:
 license: 'LGPL-3.0'
 
 # Canonical GitHub repo
-github_repo: hadenlabs/terraform-module-template
+github_repo: hadenlabs/terraform-aws-lambda-layer
 
 # Badges to display
 badges:
   - name: GitHub release
-    image: https://img.shields.io/github/release/hadenlabs/terraform-module-template?style=flat-square
-    url: https://github.com/hadenlabs/terraform-module-template/releases/latest
+    image: https://img.shields.io/github/release/hadenlabs/terraform-aws-lambda-layer?style=flat-square
+    url: https://github.com/hadenlabs/terraform-aws-lambda-layer/releases/latest
   - name: Lint
-    image: https://img.shields.io/github/workflow/status/hadenlabs/terraform-module-template/lint-code
-    url: https://github.com/hadenlabs/terraform-module-template/actions
+    image: https://img.shields.io/github/workflow/status/hadenlabs/terraform-aws-lambda-layer/lint-code
+    url: https://github.com/hadenlabs/terraform-aws-lambda-layer/actions
   - name: Issues
-    image: https://img.shields.io/github/issues/hadenlabs/terraform-module-template
-    url: https://github.com/hadenlabs/terraform-module-template/issues
+    image: https://img.shields.io/github/issues/hadenlabs/terraform-aws-lambda-layer
+    url: https://github.com/hadenlabs/terraform-aws-lambda-layer/issues
   - name: Conventional Commits
     image: https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow
     url: https://conventionalcommits.org
@@ -48,12 +48,12 @@ badges:
 # Short description of this project
 description: |-
 
-  terraform-module-template for project
+  terraform-aws-lambda-layer for project
 
   ### Replace name project to New Project
 
   ```bash
-    agr 'terraform-module-template' 'new-project'
+    agr 'terraform-aws-lambda-layer' 'new-project'
   ```
 
   ```hcl
